@@ -1,0 +1,47 @@
+
+.quadrado{
+    display: inline-block; 
+    text-align: center;
+    background:whitesmoke;
+    width: 50px;
+    padding: 40px;
+    font-size: 60px;
+    margin: 5px;
+    cursor: pointer;
+    box-shadow:-1px 1px 21px 0px rgba(22,193,200,0.68);
+    color: whitesmoke;
+}
+
+body {
+    text-align: center;
+}
+
+header{
+    font-family: monospace;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 2px #323534;
+    color: #77ABF6;
+}
+
+body{background: #d2eeff}
+
+#play {
+    font-family: monospace;
+    padding: 5px 50px;
+    border: none;
+    color: white;
+    background: crimson;
+    font-size: x-large;
+    text-transform: uppercase;
+    font-weight: bolder;
+    cursor: pointer;
+}
+
+#play:hover{
+    background: #FFB5EC ;
+}
+
+p{
+    font-size: larger;
+    font-family: monospace;
+}
